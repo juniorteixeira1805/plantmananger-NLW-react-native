@@ -1,4 +1,5 @@
 <h1 align="center">
+  Plantmananger
   <img alt="dev.finances" title="dev.finances" src="src/assets/watering.png" width="220px" />
 </h1>
 
