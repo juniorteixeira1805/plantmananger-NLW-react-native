@@ -15,20 +15,20 @@
 
 ## 💻 Projeto
 
-O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+O Plantmananger é uma aplicação de auxilio para regar as plantas, onde é possível adicionar a planta e o usuário receberá os horários que deve regar a planta.
 
 ## Getting Started
 Para utilizar o projeto, basta clonar o repositório em um diretório de sua preferência com o seguinte comando:
 ```
 git clone https://github.com/juniorteixeira1805/plantmananger-NLW-react-native
 ```
-Para instalar as dependenciasa, raiz da pasta, executar o comando:
+Para instalar as dependencias basta, raiz da pasta, executar o comando:
 ```
 expo install
 ```
-Na raiz do projeto executar o comando
+Após isso, executar o comando:
 ```
-node expo start
+expo start
 ```
 
 ## 🚀 Tecnologias
@@ -47,31 +47,16 @@ expo build
 ## Contributions
 Contribuições para o projeto são sempre bem-vindas.
 
-## License
-MIT.
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 
 ## Author
-Feito por Junior Teixeira, entre em contato!
+Feito por Junior Teixeira com Rocketseat, entre em contato!
 
 <img src="https://avatars.githubusercontent.com/u/49037876?s=96&v=4" alt="junior teixeira"></img>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gilvan%20Carlos-3355cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvan-carlos/)](https://www.linkedin.com/in/gilvan-carlos/) 
 [![Gmail Badge](https://img.shields.io/badge/-juniorteixeira1805@gmail.com-3355cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniorteixeira1805@gmail.com)](mailto:juniorteixeira1805@gmail.com)
-
-
-
-
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Feito com Rocketseat
-
 
