@@ -1,7 +1,9 @@
-# plantmananger-NLW
+<h1 align="center">
+  <img alt="dev.finances" title="dev.finances" src="assets/logo.png" width="220px" />
+</h1>
 
 <p align="center">
- <a href="#Description">Description</a> •
+ <a href="#Projeto">Projeto</a> •
  <a href="#GettingStarted">Getting Started</a> • 
  <a href="#Technologies">Technologies</a>
  <a href="#Build">Build</a> •
@@ -10,9 +12,9 @@
  <a href="#Author">Author</a>
 </p>
 
-## Description
-Aplicativo desenvolvido com React native que lembra os usuário o horário de regar as plantas.
-Aplicativo desenvolvido junto a Rocketseat na Semana Next Level 5.
+## 💻 Projeto
+
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
 ## Getting Started
 Para utilizar o projeto, basta clonar o repositório em um diretório de sua preferência com o seguinte comando:
@@ -28,9 +30,12 @@ Na raiz do projeto executar o comando
 node expo start
 ```
 
-## Technologies
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React native
 - Expo
+- CSS
 
 ## Build
 Na raiz do projeto executar o comando
@@ -51,4 +56,21 @@ Feito por Junior Teixeira, entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gilvan%20Carlos-3355cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvan-carlos/)](https://www.linkedin.com/in/gilvan-carlos/) 
 [![Gmail Badge](https://img.shields.io/badge/-juniorteixeira1805@gmail.com-3355cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniorteixeira1805@gmail.com)](mailto:juniorteixeira1805@gmail.com)
+
+
+
+
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Feito com Rocketseat
+
 
